@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://github.com/Mohammedos11"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=0036FFFF&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there+!+;My+name's+Mohammed+Osama+;And+nice+to+meet+you+!" alt="Mohammedos11 | hello_world!" /></a>
-</p>
+
 
 <p align="center">
 <!--   <a href="https://www.linkedin.com/in/mohammed-osama/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
