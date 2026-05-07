@@ -1,15 +1,4 @@
 
-
-<p align="center">
-<!--   <a href="https://www.linkedin.com/in/mohammed-osama/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-  <a href="mailto:moprmg3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<h2>
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px">
-  About Me
-</h2>
-
 <p align="center">
   <a href="https://github.com/Mohammedos11"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=0036FFFF&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there+!+;My+name's+Mohammed+Osama+;Information+Security+Engineering+Student" alt="Mohammedos11 | hello_world!" /></a>
 </p>
